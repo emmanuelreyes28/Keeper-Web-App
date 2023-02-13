@@ -1,4 +1,4 @@
-# Keeper-App-Part-3
+# Keeper-Web-App
 
 Note taking web app created with React.js
 
